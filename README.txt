@@ -1,0 +1,3 @@
+基于java socket的文件传输项目，将server运行在一台机器上，将client运行在其他电脑上；
+协调好ip地址和端口；
+先启动server，后启动client，在client可以读取server数据、获取server文件
